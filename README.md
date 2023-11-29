@@ -1,1 +1,1 @@
-This project aims to implement a stable diffusion technique based fashion synthesis assistant tool that automatically generates clothing designs based on user input through the use of a text prompt.
+This project aims to implement a stable diffusion technique based fashion synthesis assistant tool that automatically generates clothing designs based on user input through the use of a text prompt. Access the resized images that we used in our implementation at https://drive.google.com/drive/folders/1x9SiWiCkKKO-5lWNpJSs4Ka4KpsXP_uF?usp=sharing

@@ -5,7 +5,7 @@ This project presents a fashion synthesis assistant tool that allows users to ge
 
 KerasCV Baseline Model: https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
 
-##Files
+## Files
 datasets_c.py is used to generate the training and validation datasets used for training. This was adapted from https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py
 
 layers.py is the implementation of a LoRA layer, adapted from https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/layers.py

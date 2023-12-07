@@ -1,5 +1,6 @@
 """
-Adapted from https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py
+Adapted from https://github.com/huggingface/diffusers/blob/main/examples/text_to_image/train_text_to_image.py and
+https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/datasets.py
 """
 
 import os

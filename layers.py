@@ -1,3 +1,6 @@
+"""Adapted from https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/layers.py
+"""
+
 from tensorflow import keras
 
 

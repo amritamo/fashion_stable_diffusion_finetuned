@@ -1,3 +1,6 @@
+"""
+Adapted from https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/inference.py
+"""
 import argparse
 
 import keras_cv

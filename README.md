@@ -15,5 +15,5 @@ trainer_c.py includes the trainer used for training as well as the loading of Lo
 
 
 
-##Acknowledgements
+## Acknowledgements
 Credits to https://github.com/Elvenson/stable-diffusion-keras-ft/tree/main 

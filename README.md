@@ -24,6 +24,8 @@ inference_with_fid.py
 This includes the implementation for FrechetInceptionDistance calculations for a specific model in comparison to the selected test data.
 
 
-
 ## Acknowledgements
 Credits to https://github.com/Elvenson/stable-diffusion-keras-ft/tree/main 
+Credits to https://huggingface.co/docs/diffusers/conceptual/evaluation for clear FID explanations.
+
+

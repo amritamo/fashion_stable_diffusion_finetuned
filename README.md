@@ -6,13 +6,16 @@ This project presents a fashion synthesis assistant tool that allows users to ge
 KerasCV Baseline Model: https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
 
 ## Files
+
+KerasCV_loRA.ipynb is the notebook where we ran our experiments, it includes calls for finetuning and inference. 
+
 datasets_c.py is used to generate the training and validation datasets used for training. 
 
 layers.py is the implementation of a LoRA layer, adapted from https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/layers.py
 
 trainer_c.py includes the trainer used for training as well as the loading of LoRA layers into a diffusion model. 
 
-finetune_c.py is the training script. 
+finetune_c.py is the training script. It also saves training and validation loss in a csv file after training.
 Example use: `python finetune_c.py --img_height 256 --img_width 256 --batch_size 4 --num_epochs 20 --ema 0 --lr 1e-04 --augmentation --lora --lora_rank 4 --lora_alpha 8 `
 
 inference.py is

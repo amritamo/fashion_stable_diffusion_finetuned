@@ -1,3 +1,5 @@
+""" Adapted from https://github.com/Elvenson/stable-diffusion-keras-ft/blob/main/trainer.py
+"""
 from typing import Union
 from sklearn.utils import validation
 
